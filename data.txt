@@ -1,0 +1,3 @@
+name : Patri
+Age : 38
+Favorite  Color: Green
